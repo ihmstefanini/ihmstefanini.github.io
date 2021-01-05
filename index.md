@@ -4,14 +4,40 @@ O Pandora Box possibilita que analista e cientista de dados descubram o potencia
 
 O Pandora faz análises rápidas de viabilidade dos problemas que deseja modelar preditivamente na indústria (predição de qualidade, sensores virtuais, etc).  
 
-You can use the [editor on GitHub](https://github.com/ihmstefanini/ihmstefanini.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+![IHM Pandora01](https://github.com/ihmstefanini/ihmstefanini.github.io/blob/main/images/IHM%20Pandora02.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+O Pandora pode ser usado para analisar correlações entre variáveis de processo e qualidade (correlação linear e não linear), fazer teste de hipóteses (verificar causalidade), calcular o tempo de atraso, sincronizar as variáveis no tempo e fornecer informações sobre o potencial preditivo do problema.
 
-### Markdown
+### Por quê o Pandora?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Sabe aqueles momentos em que você precisa fazer uma rápida análise de viabildiade (potencial preditivo) de um problema e não tem tempo para fazer todo aquela códificação em python ou não tem ninguém disponível pra te ajudar?
 
+Se você já esteve nessa situação, então o Pandora é o aplicativo perfeito para te salvar nesses momentos!
+
+### Entendendo o Pandora
+
+Analisar se uma variável de qualidade de um processo industrial pode ser modelada preditivamente é uma tarefa complexa e que exige avaliar uma séria de informações. O Pandora facilita esse processo, fazendo todas as etapas necessárias para isso de maneira mais automática e rápida.
+
+Claro que não reinventamos a roda. Entretanto, tornamos esse processo mais democrático e acessível para os analistas, engenheiros e tomadores de decisão na indústria, permitindo que uma análise mínima possa ser feita sobre os dados que se deseja explorar/modelar.
+
+Tal análise preliminar, utilizando o Pandora Box, permite que o usuário tenha um mínimo de informação necessária a respeito do potencial preditivo do problema, facilitando a tomada de decisão sobre seguir ou não com o projeto de dados. Pandora também disponibiliza para o usuário um dataset sincronizado e pronta para ser explorado de forma mais consistente e sistemática.
+
+### Utilizando o Pandora
+
+- Instale o Pandora
+- Leia a documentação
+- Provisione o Pandora em produção com o Pandora Box Cloud
+
+### Junte-se a nossa comunidade de analistas que utilizam o Pandora
+
+- Entre no chat do telegram
+
+### Reportando bugs e contribuindo com o código
+
+Want to report a bug or request a feature? Let us know on Slack, or open an issue.
+Want to help us build dbt? Check out the Contributing Getting Started Guide
+
+- Entre no chat do telegram
 ```markdown
 Syntax highlighted code block
 
@@ -27,7 +53,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-![IHM Pandora01](/images/IHM Pandora01.jpeg)
+
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
