@@ -34,34 +34,10 @@ Tal análise preliminar, utilizando o Pandora Box, permite que o usuário tenha 
 
 ### Reportando bugs e contribuindo com o código
 
-Want to report a bug or request a feature? Let us know on Slack, or open an issue.
-Want to help us build dbt? Check out the Contributing Getting Started Guide
+Quer reportar um bug ou solicitar uma feature? Fale com a gente no Slack ou abra um issue.
 
-- Entre no chat do telegram
-```markdown
-Syntax highlighted code block
+Quer ajudar a construir o Pandora? Em breve!
 
-# Header 1
-## Header 2
-### Header 3
+### Suporte ou Contato
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ihmstefanini/ihmstefanini.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Mande um email pra gente no inteligenciaindustrial@ihm.com.br.
