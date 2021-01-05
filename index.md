@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Bem vindo ao IHM Pandora Box
+
+O Pandora Box possibilita que analista e cientista de dados descubram o potencial preditivo de um processo industrial em minutos.
+
+O Pandora faz análises rápidas de viabilidade dos problemas que deseja modelar preditivamente na indústria (predição de qualidade, sensores virtuais, etc).  
 
 You can use the [editor on GitHub](https://github.com/ihmstefanini/ihmstefanini.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
