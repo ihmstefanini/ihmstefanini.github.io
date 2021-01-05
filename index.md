@@ -23,11 +23,35 @@ Claro que não reinventamos a roda. Entretanto, tornamos esse processo mais demo
 Tal análise preliminar, utilizando o Pandora Box, permite que o usuário tenha um mínimo de informação necessária a respeito do potencial preditivo do problema, facilitando a tomada de decisão sobre seguir ou não com o projeto de dados. 
 
 Pandora também disponibiliza para o usuário um dataset sincronizado e pronta para ser explorado de forma mais consistente e sistemática.
+### Instalação
 
+1. Clone o projeto e navegue até a pasta project
+```
+git clone https://gitlab.com/i9ihm/ii/ds-exp/exp-ds-produtos-pandora.git
+cd exp-ds-produtos-pandora
+```
+
+2. Rode seu ambiente virtual (nesse examplo iremos utilizar o virtualenv)
+```
+python -m venv myenv
+```
+  Linux
+```
+source myenv/bin/activate
+```
+  Windows
+```
+. myenv/Scripts/activate
+```
+
+3. Instale as dependencias e rode a rode a aplicação
+```
+pip install -r requirements.txt
+streamlit run pandora_app.py
+```
 ### Utilizando o Pandora
 
-- Instale o Pandora
-- Leia a documentação
+- Assista aos tutoriais
 - Provisione o Pandora em produção com o Pandora Box Cloud
 
 ### Junte-se a nossa comunidade de analistas que utilizam o Pandora
