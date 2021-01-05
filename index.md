@@ -44,11 +44,16 @@ source myenv/bin/activate
 . myenv/Scripts/activate
 ```
 
-3. Instale as dependencias e rode a rode a aplicação
+3. Instale as dependencias
 ```
 pip install -r requirements.txt
+```
+
+4. Rode a aplicação no terminal de comando
+```
 streamlit run pandora_app.py
 ```
+
 ### Utilizando o Pandora
 
 - Assista aos tutoriais
